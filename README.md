@@ -60,4 +60,9 @@ Pour les retirer (en dehors de l'X) :
 	$ git config --global --unset http.proxy
 	$ git config --global --unset https.proxy
   
-  
+### Hello World
+
+Pour commencer à tester votre environnement et vérifier que tout fonctionne, il va falloir lancer un *Hello World*
+Pour ça, nous vous demandons de réaliser [ce mini tutoriel](https://medium.com/@adnanrahic/hello-world-app-with-node-js-and-express-c1eb7cfa8a30)
+
+
