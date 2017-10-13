@@ -1,6 +1,3 @@
-# Installation
-
-
 # Installation de l'environnement de travail
 
 Nous allons commencer par installer l'environnement de travail qui servira à la fois à la partie front et à la partie back.
